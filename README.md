@@ -1,1 +1,1 @@
-# Welcome to the graveyard of my unfinished projects 🪦
+# Welcome to my graveyard of unfinished projects 🪦
