@@ -1,1 +1,3 @@
-# Welcome to my graveyard of unfinished projects 🪦
+<p align="center">
+  <img src="./chicken.webp" />
+</p>
